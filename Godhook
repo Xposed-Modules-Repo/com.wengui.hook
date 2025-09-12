@@ -1,0 +1,7 @@
+echo "# com.wengui.hook" >> README.md 
+git init 
+git add README.md 
+git commit -m "首次提交" 
+git branch -M main 
+git remote add origin https://github.com/Xposed-Modules-Repo/com.wengui.hook.git
+ git push -u origin main

@@ -1,6 +1,11 @@
-<h1>Deer God</h1>
+# Deer God
 
-<p>最是人间留不住，朱颜辞镜花辞树</p>
+**弃此残躯换清风，卷席苍穹复光年**
+
+[![Latest Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.wengui.hook?style=flat-square&logo=github&label=Release)](https://github.com/Xposed-Modules-Repo/com.wengui.hook/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.wengui.hook/total?style=flat-square&logo=github&label=Downloads)](https://github.com/Xposed-Modules-Repo/com.wengui.hook/releases)
+[![Stars](https://img.shields.io/github/stars/wengui/hook?style=flat-square&logo=github&label=Stars)](https://github.com/Xposed-Modules-Repo/com.wengui.hook/stargazers)
+---
 
 
 ## 模块介绍

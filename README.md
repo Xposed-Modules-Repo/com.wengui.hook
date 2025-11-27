@@ -2,7 +2,7 @@
   
 # Deer God
 
-**弃此残躯换清风，卷席苍穹复光年**
+**停车坐爱枫林晚，霜叶红于二月花**
 </div>
 
 [![Latest Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.wengui.hook?style=flat-square&logo=github&label=Release)](https://github.com/Xposed-Modules-Repo/com.wengui.hook/releases/latest)

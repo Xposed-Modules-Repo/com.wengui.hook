@@ -25,5 +25,13 @@
 
 ---
 
+## 赞助打赏
++ 如果你觉得这个模块对你有帮助 欢迎对开发者进行打赏！
++ 这将是我继续维护更新的动力！
+
+
+<img width="200" height="200" alt="image" src="https://raw.githubusercontent.com/GodHook/GodHook/main/mm_reward_qrcode_1764251973427.png" />
+
+---
 
 **Package:** `com.wengui.hook`

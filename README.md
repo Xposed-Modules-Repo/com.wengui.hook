@@ -2,7 +2,7 @@
   
 # Deer God
 
-**停车坐爱枫林晚，霜叶红于二月花**
+**朝看花开满树红，暮看花落树还空**
 </div>
 
 [![Latest Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.wengui.hook?style=flat-square&logo=github&label=Release)](https://github.com/Xposed-Modules-Repo/com.wengui.hook/releases/latest)

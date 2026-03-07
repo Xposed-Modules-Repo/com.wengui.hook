@@ -2,7 +2,7 @@
   
 # Deer God
 
-**朝看花开满树红，暮看花落树还空**
+**朝如青丝暮成雪，是非成败转头空**
 </div>
 
 [![Latest Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.wengui.hook?style=flat-square&logo=github&label=Release)](https://github.com/Xposed-Modules-Repo/com.wengui.hook/releases/latest)
@@ -12,8 +12,8 @@
 
 
 ## 模块介绍
-- 对部分应用去除广告，解锁会员
-- 对部分弹窗进行捕捉，方便逆向
+- 解锁会员、去除广告，适配应用60+
+- 通杀套壳、拦截弹窗、应用脱壳等
 - 来自小白的戏作一篇，还请包容
 
 
@@ -26,6 +26,7 @@
 ## 赞助打赏
 + 如果你觉得这个模块对你有帮助 欢迎对开发者进行打赏！
 + 这将是我继续维护更新的动力！
++ 爱发电主页https://afdian.com/a/wengui
 
 
 <img width="200" height="200" alt="image" src="https://raw.githubusercontent.com/GodHook/GodHook/main/mm_reward_qrcode_1764251973427.png" />

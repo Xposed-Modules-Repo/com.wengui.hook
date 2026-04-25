@@ -2,7 +2,7 @@
   
 # Deer God
 
-**朝如青丝暮成雪，是非成败转头空**
+**人生如逆旅，我亦是行人**
 </div>
 
 [![Latest Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.wengui.hook?style=flat-square&logo=github&label=Release)](https://github.com/Xposed-Modules-Repo/com.wengui.hook/releases/latest)

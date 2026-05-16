@@ -5,14 +5,17 @@
 **人生如逆旅，我亦是行人**
 </div>
 
-[![Latest Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.wengui.hook?style=flat-square&logo=github&label=Release)](https://github.com/Xposed-Modules-Repo/com.wengui.hook/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.wengui.hook/total?style=flat-square&logo=github&label=Downloads)](https://github.com/Xposed-Modules-Repo/com.wengui.hook/releases)
-[![Stars](https://img.shields.io/github/stars/wengui/hook?style=flat-square&logo=github&label=Stars)](https://github.com/Xposed-Modules-Repo/com.wengui.hook/stargazers)
+<a href="https://github.com/Xposed-Modules-Repo/com.wengui.hook/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Xposed-Modules-Repo/com.wengui.hook?label=Stars"></a>
+<a href="https://github.com/Xposed-Modules-Repo/com.wengui.hook/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.wengui.hook/total?label=Downloads"></a>
+<a href="https://github.com/Xposed-Modules-Repo/com.wengui.hook/releases/latest"><img alt="GitHub latest release" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.wengui.hook"></a>
+
+<a href="https://t.me/DeerGodCI"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>
+<a href="https://t.me/DeerGodChat"><img alt="Telegram Group" src="https://img.shields.io/badge/Telegram-群组-blue.svg?logo=telegram"></a>
 ---
 
 
 ## 模块介绍
-- 解锁会员、去除广告，适配应用70+
+- 解锁会员、去除广告，适配应用80+
 - 通杀套壳、拦截弹窗、应用脱壳等
 - 来自小白的戏作一篇，还请包容
 

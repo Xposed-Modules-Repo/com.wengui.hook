@@ -2,7 +2,7 @@
   
 # Deer God
 
-**人生如逆旅，我亦是行人**
+**世间最毒的仇恨，是有缘却无分**
 </div>
 
 <a href="https://github.com/Xposed-Modules-Repo/com.wengui.hook/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Xposed-Modules-Repo/com.wengui.hook?label=Stars"></a>

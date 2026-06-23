@@ -2,6 +2,8 @@
   
 # Deer God
 
+[English Version](./ReadMe_English.md)
+
 **世间最毒的仇恨，是有缘却无分**
 </div>
 

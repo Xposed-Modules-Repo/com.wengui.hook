@@ -15,7 +15,7 @@
 
 
 ## Module Introduction
-- Unlock VIP, remove ads, adapted to 90+ apps
+- Unlock VIP, remove ads, adapted to 100+ apps
 - Universal shell bypass, block pop-ups, app unpacking, etc.
 - A playful work from a newbie, please be tolerant
 
